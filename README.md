@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**marblenix/marblenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 🌱 I’m currently learning
+- rust
+- wasm
+- what is love ʙᴀʙʏ ᴅᴏɴ'ᴛ ʜᴜʀᴛ ᴍᴇ
 
-Here are some ideas to get you started:
+##### 😄 Pronouns she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 📫 How to reach me
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEXw0gyhYJKwYBBAHaRw8BAQdApFkGo5H3gxEjLPHo4Ruj1cG6HLe970c1kZwd
+fNUt5+q0JkNhc3NpZHkgTWFyYmxlIDxjYXNzaWR5QG1hcmJsZW5peC5jb20+iJAE
+ExYIADgWIQSHCwtP+jcFHN1wCBQoN+EFSE8GBgUCXw0gygIbAwULCQgHAgYVCgkI
+CwIEFgIDAQIeAQIXgAAKCRAoN+EFSE8GBo6XAQCxlknxQyx3zMHvXAxdPVSSfi1b
+TajoucGN5RTCXvc0hwD/YRfg1fpNeaXr7ttESg6AUWdxufO9pUtPuHroJQ6oVAi4
+MwRfDSDKFgkrBgEEAdpHDwEBB0Bl5MMlRq4noI+zvQH8DgtcGDTP6HRjc7jTVkSv
+SvlXc4h4BBgWCAAgFiEEhwsLT/o3BRzdcAgUKDfhBUhPBgYFAl8NIMoCGyAACgkQ
+KDfhBUhPBgYdbQEAm9WqzqXH50J2aP6DgRhYt0McWrDt9Dm3wC6zKKLj7jAA/3kb
+PkcPQlVM3ufjoo5NbDSeoXqe6gfESht/xSJu6/wIuDgEXw0gyhIKKwYBBAGXVQEF
+AQEHQK73NCHJ0gWTrUYjjS6N3GoO/vZ0qm1hYtqvJTdLvxUFAwEIB4h4BBgWCAAg
+FiEEhwsLT/o3BRzdcAgUKDfhBUhPBgYFAl8NIMoCGwwACgkQKDfhBUhPBgbLZgD+
+ItqbSIydcJCbCWySHTzbkPDRnkp/SghsyLn27l5jEnsA/2BA/rcvRfs4+6Pg0YXZ
+LGPV1g2uXdmTEcyc4jruXVsM
+=fJNK
+-----END PGP PUBLIC KEY BLOCK-----
+```
